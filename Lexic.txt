@@ -1,0 +1,20 @@
+Compiler - program that translate source code into machine code
+Source code - 
+Assembly language
+Object code
+Executable code - .exe; .out
+Busses - hardware's communication, carry words of data between components
+I/O devices - keyboard, mouse
+Main memory - RAM, DRAM
+Cache memory - CPU's memory
+CPU - central processing unit
+Operating System - OS, software that manages other softwares and hardwares
+Concurrency - two things at the same time
+Context switching
+Threads
+Register
+Memory hierarchy
+Virtual memory
+Process
+File
+Network
